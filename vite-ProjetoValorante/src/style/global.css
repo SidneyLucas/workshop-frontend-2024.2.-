@@ -1,0 +1,9 @@
+* {
+  font-family: "Open Sans";
+  color: white;
+  padding: 0;
+  margin: 0;
+}
+.container {
+  background-color: black;
+}

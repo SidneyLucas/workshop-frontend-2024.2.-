@@ -1,0 +1,15 @@
+.Agentecontainer {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 30px;
+  background-color: black;
+  gap: 20px;
+}
+.Blocos {
+  background-color: #ff4048;
+  padding: 20px;
+  border-radius: 8px;
+}
+.imagens {
+  width: 250px;
+}
