@@ -1,0 +1,1 @@
+Meu primeiro projeto usando React,meu objetivo foi criar uma pagina simples que mostrasse as informaçoes dos Agentes,tive que aprender bastante coisa nesse projeto como consumir api e aprender a organizar os arquivos e futuramente pretendo melhorar esse projeto:)
